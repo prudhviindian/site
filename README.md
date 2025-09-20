@@ -1,4 +1,4 @@
-# PhysioHealth - Professional Physiotherapy Clinic Website
+# PhysioTime - Professional Physiotherapy Clinic Website
 
 A modern, responsive static website for a physiotherapy clinic built with HTML, CSS, and JavaScript.
 
